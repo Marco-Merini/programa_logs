@@ -12,3 +12,5 @@
 
 - Configura o logging chamando `setup_logging`.
 - Cria um logger chamado `example_logger` e gera logs em vários níveis (`DEBUG`, `INFO`, `WARNING`, `ERROR`, `CRITICAL`).
+
+## By Marco Leone Merini
