@@ -1,0 +1,22 @@
+version: 1
+formatters:
+  detailed:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+handlers:
+  file:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: detailed
+    filename: 'app.log'
+    encoding: 'utf8'
+
+loggers:
+  example_logger:
+    level: DEBUG
+    handlers: [file]
+    propagate: no
+
+root:
+  level: DEBUG
+  handlers: [file]
