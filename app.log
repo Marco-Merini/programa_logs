@@ -1,5 +1,5 @@
-2024-08-12 21:10:37,779 - example_logger - DEBUG - This is a DEBUG message.
-2024-08-12 21:10:37,779 - example_logger - INFO - This is an INFO message.
-2024-08-12 21:10:37,779 - example_logger - WARNING - This is a WARNING message.
-2024-08-12 21:10:37,779 - example_logger - ERROR - This is an ERROR message.
-2024-08-12 21:10:37,779 - example_logger - CRITICAL - This is a CRITICAL message.
+2024-08-16 13:45:50,931 - example_logger - DEBUG - This is a DEBUG message.
+2024-08-16 13:45:50,931 - example_logger - INFO - This is an INFO message.
+2024-08-16 13:45:50,931 - example_logger - WARNING - This is a WARNING message.
+2024-08-16 13:45:50,931 - example_logger - ERROR - This is an ERROR message.
+2024-08-16 13:45:50,931 - example_logger - CRITICAL - This is a CRITICAL message.
